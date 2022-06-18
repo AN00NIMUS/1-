@@ -1,15 +1,4 @@
-# 1-
-#index.html
-<html lang="ru">
-<head>
-	
-<!-- This site is optimized with the Yoast SEO plugin v7.7.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Многие из вас уже знают, что мотивам самых популярных мультиков были созданы игры в Роблокс. Примерами таких карт могут быть «Бэтмен», «Тачки», «Рик и"/>
-<link rel="canonical" href="https://roblox-igra.ru/igrat-v-robloks/multyashnye-karty-robloksa" />
-<meta property="og:locale" content="ru_RU" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Мультяшные карты Роблокса: Roblox Тачки, Миньоны, Супергерои" />
-<meta property="og:description" content="Многие из вас уже знают, что мотивам самых популярных мультиков были созданы игры в Роблокс. Примерами таких карт могут быть «Бэтмен», «Тачки», «Рик и" />
+
 <meta property="og:url" content="https://roblox-igra.ru/igrat-v-robloks/multyashnye-karty-robloksa" />
 
 <meta property="og:image" content="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-1-16.jpg" />
