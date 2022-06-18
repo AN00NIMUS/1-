@@ -4,39 +4,7 @@
 	<
 </head>
 <body>
-	<div id="main">
-		<div class="wrapper">
-			<header class="header">
-									<a href="https://roblox-igra.ru">
-						<img src="https://roblox-igra.ru/wp-content/uploads/2018/07/лого-1.png " class="logo" alt="RobloxIgra">
-					</a>
-									<div class="m-nav">
-						<!--noindex-->
-	    <form method="get" action="https://roblox-igra.ru/">
-	
-	    </form>
-	</div>
-	<!--/noindex-->
-							
-			</header>
-			
-												<ul class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
-					<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="home" href="https://roblox-igra.ru" itemprop="item"><span itemprop="name"></span></a></li>
-										<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://roblox-igra.ru/igrat-v-robloks" itemprop="item"><span itemprop="name"></span></a></li>
-				</ul>
-				
-				
-				
-				
-				<div class="content-wrapper">
-	<main class="content">
-								    		<div class="article-wrap" itemscope itemtype="http://schema.org/Article">
-						<article class="single">
-															<h1 class="single__title" itemprop="headline">Мультяшные карты Роблокса</h1>
-															<div itemprop="articleBody">
-								<blockquote><p>Многие из вас уже знают, что мотивам самых популярных мультиков были созданы игры в Роблокс. Примерами таких карт могут быть «Бэтмен», «Тачки», «Рик и Морти». Проходя их, вы найдете очень много знаменитых предметов, которые олицетворят тот или иной мультфильм.</p></blockquote>
 
-<script async type="text/javascript" src="//orjzy.com/native.php?b=cf89f51b2eb24874bdfd51a5eb76747d"></script></div>
 <p><img class="alignnone size-large wp-image-233" src="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-1-16-1024x576.jpg" alt="Мультяшные карты Роблокса" width="1024" height="576" srcset="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-1-16-1024x576.jpg 1024w, https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-1-16-300x169.jpg 300w, https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-1-16-768x432.jpg 768w, https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-1-16.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 <p>Такие карты являются практически зеркальным отражением мультов. На просторах Интернета размещено множество летсплеев на эти карты, из них можно сложить целые фильмы, у каждого из которых своя индивидуальная развязка. В этих картах можно заработать дополнительные баллы для игры.</p>
 <p><img class="alignnone size-large wp-image-120" src="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-12-1024x576.jpg" alt="роблокс тайкун" width="1024" height="576" srcset="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-12-1024x576.jpg 1024w, https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-12-300x169.jpg 300w, https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-12-768x432.jpg 768w, https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-12.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
