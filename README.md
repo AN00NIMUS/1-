@@ -1,16 +1,7 @@
-
+#1-
+#index.html
 <meta property="og:url" content="https://roblox-igra.ru/igrat-v-robloks/multyashnye-karty-robloksa" />
 
-<meta property="og:image" content="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-1-16.jpg" />
-<meta property="og:image:secure_url" content="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-1-16.jpg" />
-<meta property="og:image:width" content="1280" />
-<meta property="og:image:height" content="720" />
-<meta property="og:image:alt" content="Мультяшные карты Роблокса" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="Многие из вас уже знают, что мотивам самых популярных мультиков были созданы игры в Роблокс. Примерами таких карт могут быть «Бэтмен», «Тачки», «Рик и" />
-<meta name="twitter:title" content="Мультяшные карты Роблокса: Roblox Тачки, Миньоны, Супергерои" />
-<meta name="twitter:image" content="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-1-16.jpg" />
-<!-- / Yoast SEO plugin. -->
 
 		
 		
