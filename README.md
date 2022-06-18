@@ -1,36 +1,6 @@
 #1-
 #index.html
-<meta property="og:url" content="https://roblox-igra.ru/igrat-v-robloks/multyashnye-karty-robloksa" />
 
-
-		
-		
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-
-<link rel="alternate" type="application/json+oembed" href="https://roblox-igra.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Froblox-igra.ru%2Figrat-v-robloks%2Fmultyashnye-karty-robloksa" />
-<link rel="alternate" type="text/xml+oembed" href="https://roblox-igra.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Froblox-igra.ru%2Figrat-v-robloks%2Fmultyashnye-karty-robloksa&#038;format=xml" />
-<link rel="icon" href="https://roblox-igra.ru/wp-content/uploads/2018/07/cropped-roblox_by_moderationhistory-danl57h-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://roblox-igra.ru/wp-content/uploads/2018/07/cropped-roblox_by_moderationhistory-danl57h-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="https://roblox-igra.ru/wp-content/uploads/2018/07/cropped-roblox_by_moderationhistory-danl57h-180x180.png" />
-<meta name="msapplication-TileImage" content="https://roblox-igra.ru/wp-content/uploads/2018/07/cropped-roblox_by_moderationhistory-danl57h-270x270.png" />
-	
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	
-			<script src="https://roblox-igra.ru/wp-content/themes/roblox/js/scripts.js"></script>
-	
 	<
 </head>
 <body>
