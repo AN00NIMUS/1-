@@ -2,22 +2,7 @@
 #index.html
 <html lang="ru">
 <head>
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-8009701342779441",
-          enable_page_level_ads: true
-     });
-</script>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,700i&subset=cyrillic" rel="stylesheet">
-	<link href="https://roblox-igra.ru/wp-content/themes/roblox/style.css" rel="stylesheet">
-	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<!--[if lte IE 9]><script src="http://cdn.jsdelivr.net/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
-	<!--[if gte IE 9]><style type="text/css">.gradient{filter: none;}</style><![endif]-->
-	<title>Мультяшные карты Роблокса: Roblox Тачки, Миньоны, Супергерои</title>
-
+	
 <!-- This site is optimized with the Yoast SEO plugin v7.7.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Многие из вас уже знают, что мотивам самых популярных мультиков были созданы игры в Роблокс. Примерами таких карт могут быть «Бэтмен», «Тачки», «Рик и"/>
 <link rel="canonical" href="https://roblox-igra.ru/igrat-v-robloks/multyashnye-karty-robloksa" />
